@@ -29,11 +29,11 @@ FUTURE_CS_02
 ## How to Run
 1. Install Python (latest version)
 2. Install dependencies:
-python -m pip instal pandas
-3. Navigate to scripts folder:
+python -m pip install pandas
+4. Navigate to scripts folder:
 cd scripts
 5. Run the script:
-python phishing_detecting.py
+python phishing_detection.py
 
 
 ## Deliverables
